@@ -1,6 +1,6 @@
 {
     "name": "PROFESSOR-BOT",
-    "description": "the telegram Autofilter bot",
+    "description": "The Telegram Autofilter bot",
     "logo": "https://graph.org/file/b7e8484f6395a180b6380.jpg",
     "keywords": ["telegram", "auto-filter", "MrMKN"],
     "website": "https://github.com/MrMKN/PROFESSOR-BOT",
@@ -58,7 +58,7 @@
         },
         "CUSTOM_FILE_CAPTION": {
             "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
-            "value": "Hey {mention}👋\n\n{file_name}\n\n🔘 size - {file_size}\n\n╭─── • ❰ @MR_LINK_Z ❱ • ────➤\n┣ ▫️ @MRxSERIES\n┣ ▫️ @MalluMovie_Official\n╰─────── • ◆ • ───────➤",
+            "value": "Hey {mention}👋\n\n{file_name}\n\n🔘 size - {file_size}\n\nJoin @Dealzie for Instant Loot Deals \nhttps://t.me/Dealzie",
             "required": false
         },
         "DATABASE_URI": {
@@ -77,7 +77,7 @@
         },
         "SUPPORT_CHAT": {
             "description": "Updated Channel Username Without @ Not Chanel ID",
-            "value": "MKN_BOTZ_DISCUSSION_GROUP",
+            "value": "Zindha",
             "required": false
         },
         "IMDB": {
@@ -96,7 +96,7 @@
             "required": false
         }, 
         "IMDB_DELET_TIME": {
-            "description": "bot risult aouto delet time in second do to avoid group copyright issue. default is 300 ",
+            "description": "bot result auto delete time in second do to avoid group copyright issue. default is 300 ",
             "value": "300",
             "required": false  
         },
@@ -112,7 +112,7 @@
         },       
         "FORCE_SUB_TEXT": {
             "description": "custom force sub text (use ** = bold / use ``=  mono)",
-            "value": "**𝑱𝒐𝒊𝒏 𝑶𝒖𝒓 𝑴𝒐𝒗𝒊𝒆 𝑼𝒑𝒅𝒂𝒕𝒆𝒔 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑻𝒐 𝑼𝒔𝒆 𝑻𝒉𝒊𝒔 𝑩𝒐𝒕!**",
+            "value": "**𝑱𝒐𝒊𝒏 𝑶𝒖𝒓 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑻𝒐 𝑼𝒔𝒆 𝑻𝒉𝒊𝒔 𝑩𝒐𝒕!**",
             "required": false
         },
         "AUTH_GROUPS": {
@@ -165,8 +165,3 @@
             {"url": "heroku/python"}
         ]      
 }
-
-
-
-
-
