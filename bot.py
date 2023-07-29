@@ -1,6 +1,6 @@
 import os, math, logging
 import logging.config
-import httpcore[http2]
+import httpcore
 from pyrogram import Client, __version__
 from pyrogram.raw.all import layer
 #from Telethroid import started_telethroid
